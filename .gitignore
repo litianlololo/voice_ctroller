@@ -1,0 +1,36 @@
+# Gradle build files
+.gradle/
+/build/
+
+# Local configuration file (sdk location)
+local.properties
+
+# Android Studio project files
+/.idea/
+*.iml
+
+# Compiled application files
+*.apk
+
+# Generated files
+/captures/
+/app/build/
+
+# Native libraries
+/app/src/main/libs/
+
+# Assets
+/app/src/main/assets/
+
+# Raw resources
+/app/src/main/res/raw/
+
+# Debug build files
+/app/src/main/debug/
+
+# Firebase configuration file
+/app/src/main/google-services.json
+
+# macOS specific files
+.DS_Store
+
